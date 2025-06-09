@@ -9,4 +9,3 @@ bat 'mvn clean install'
 }
 }
 }
-}
